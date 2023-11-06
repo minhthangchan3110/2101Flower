@@ -11,7 +11,7 @@ function Footer() {
           <Col lg='4' className='mb-4' md='6'>
           <div className="logo">
             <div>
-              <h1 className='text-white'>2101Flower Shop</h1>
+              <h1 className='text-white'>2301Flower Shop</h1>
             </div>
           </div>
             <p className="footer_text mt-4">
